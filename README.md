@@ -1,1 +1,1 @@
-I explored file handliing and data output using numpy.
+I explored various datatypes, file handliing, data output and numpy operations.
